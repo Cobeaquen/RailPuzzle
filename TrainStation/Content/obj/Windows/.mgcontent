@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/user/Documents/GitHub/trainworld/TrainStation/TrainStation/Content/cart.png</File>
+    <File>C:/Users/user/Documents/GitHub/trainworld/TrainStation/TrainStation/Content/effects/base_effect.fx</File>
+    <File>C:/Users/user/Documents/GitHub/trainworld/TrainStation/TrainStation/Content/effects/lightmask.png</File>
+    <File>C:/Users/user/Documents/GitHub/trainworld/TrainStation/TrainStation/Content/flag_finish.png</File>
+    <File>C:/Users/user/Documents/GitHub/trainworld/TrainStation/TrainStation/Content/track_boost.png</File>
+    <File>C:/Users/user/Documents/GitHub/trainworld/TrainStation/TrainStation/Content/track_straight.png</File>
+    <File>C:/Users/user/Documents/GitHub/trainworld/TrainStation/TrainStation/Content/track_turn.png</File>
+    <File>C:/Users/user/Documents/GitHub/trainworld/TrainStation/TrainStation/Content/ui/fonts/default_font.spritefont</File>
+    <File>C:/Users/user/Documents/GitHub/trainworld/TrainStation/TrainStation/Content/effects/button_effect.fx</File>
+  </SourceFiles>
+</SourceFileCollection>

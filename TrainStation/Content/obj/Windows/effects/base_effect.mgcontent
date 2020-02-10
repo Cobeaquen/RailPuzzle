@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/user/Documents/GitHub/trainworld/TrainStation/TrainStation/Content/effects/base_effect.fx</SourceFile>
+  <SourceTime>2019-04-26T13:23:26.5424722+02:00</SourceTime>
+  <DestFile>C:/Users/user/Documents/GitHub/trainworld/TrainStation/TrainStation/Content/bin/Windows/effects/base_effect.xnb</DestFile>
+  <DestTime>2019-04-26T13:24:22.8519949+02:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T16:05:36+01:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

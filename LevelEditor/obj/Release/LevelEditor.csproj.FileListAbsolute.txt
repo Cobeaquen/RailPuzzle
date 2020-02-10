@@ -1,0 +1,2 @@
+C:\Users\Cobeaquen\source\repos\trainworld\TrainStation\LevelEditor\obj\Release\LevelEditor.csprojAssemblyReference.cache
+C:\Users\Cobeaquen\source\repos\trainworld\TrainStation\LevelEditor\obj\Release\LevelEditor.csproj.CoreCompileInputs.cache

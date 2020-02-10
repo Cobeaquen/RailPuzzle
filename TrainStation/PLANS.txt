@@ -1,0 +1,14 @@
+﻿IDEAS:
+*Different kinds of carts with different properties and abilities
+*Enemies which shoot the cart
+*Railbutton which toggles between active tiles
+
+ADD:
+*TerrainModifier class - variable on cell
+*Cart that shoots laser
+*
+*Mirror - one stable and one movable on rails (mirrors laser)
+
+
+FIX:
+*Checking which rails have carts on them

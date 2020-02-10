@@ -1,0 +1,65 @@
+-a limited amount of force
+-a limited amount of time / keeping track - give points based on how long it took for all the carts to get to their goal.
+-obstacles (random each turn maybe?)
+-hills and bumps - tiles that require more energy to cross.
+-portals!!! - they lead to another portal on the map!
+-Show new features and elements as the game progress.
+-environments - like a cave with limited lighting, environment is related to the level - advance from environment to environment, different backgrounds (and textures like obstacles)
+-change turn direction of a turn-rail when train passes - makes it harder to manage other trains
+-multiple goals and trains with different variables
+-ability for user to create their own levels
+-picking up/leaving items to make your cart lighter/heavier
+-leaving some static tracks on the map for the player to expand on
+-daily challenges (do this when the game is done)
+-make a turning rail that throws the cart of the track if it's going too fast.
+-make the carts able to press UI buttons to do things, like spawn more carts.
+-introduce new mechanics in every environment (make the first levels easy, to show how the mechanics work)
+-fix physics - maybe lerp velocity using time; (startvel, endvel, t)
+-create a parameter for placing rails - if we should modify the map or not
+-put a blocker into place to stop the cart from going over that tile
+-carts chained to each other to make them unable to go seperate ways
+-make the finish rail stop every cart that tries to pass, until the player has picked up every orb.
+
+Progress 2019-04-24:
+Shaders and light experimentaion in hlsl
+Added Windows DX reference because of shaders not working properly with Desktop GL.
+
+Progress 2019-04-25:
++resource system
++Simple UI that displays materials (not done yet)
++Concept design
++Start of map - start point and endpoint, readable/writeable to a file.
+
+Progress: 5%
+
+WORKING LIST:
+a limited amount of time / keeping track X
+-begin with obstacles + TEXTURE X
+-hills and bumps X
+-change turn direction of a turn-rail when cart passes x (not really done)
+-portals
+-make some static rails that you have to pass to win the level. (some kind of orb maybe) X
+-create some simple levels with one cart (experiment)
+-create a new button for reseting the level, and change the one that kills the cart.
+-find a solution for reseting the level and storing items placed by the player.
+-make new class for placable items X
+-allow multiple connections from one output X
+-detector rail
+-logic gates
+-checking for turns when exiting portal
+-power modules - inverter (X) shortener and extender
+-detector rail fix - keep it active only when the rail touches the track X
+-signal- extender and shortener powermodules
+-possibility to have multiple carts travelling at once
+-logic gates
+-ui - no more scrolling!! tab attached to the side for things to build (DESIGN FIRST)
+-make some early title screen that tells information about the game
+
+-fix the level completion logic: set a cell to be the completion cell for each level (same for the start)
+-improve editor: display consumption of resources live + 
+limit the railtrack length to amount of available resources + 
+fix bug: place rails in the correct spot
+
+POSSIBLE OPTIMIZATIONS:
+-make the list on the level class of type Cell, instead of obstacle - that way we store everything in one variable and in fewer places
+-make 'isEmpty' variable on cell

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/cobeaquen/dev/games/Monogame/RailPuzzle/TrainStation/Content/effects/lightmask.png</File>
+    <File>/home/cobeaquen/dev/games/Monogame/RailPuzzle/TrainStation/Content/textures/cart.png</File>
+    <File>/home/cobeaquen/dev/games/Monogame/RailPuzzle/TrainStation/Content/textures/concept.png</File>
+    <File>/home/cobeaquen/dev/games/Monogame/RailPuzzle/TrainStation/Content/textures/flag_finish.png</File>
+    <File>/home/cobeaquen/dev/games/Monogame/RailPuzzle/TrainStation/Content/textures/lever_active.png</File>
+    <File>/home/cobeaquen/dev/games/Monogame/RailPuzzle/TrainStation/Content/textures/lever_deactive.png</File>
+    <File>/home/cobeaquen/dev/games/Monogame/RailPuzzle/TrainStation/Content/textures/obstacle_01.png</File>
+    <File>/home/cobeaquen/dev/games/Monogame/RailPuzzle/TrainStation/Content/textures/orb_01.png</File>
+    <File>/home/cobeaquen/dev/games/Monogame/RailPuzzle/TrainStation/Content/textures/power_module.png</File>
+    <File>/home/cobeaquen/dev/games/Monogame/RailPuzzle/TrainStation/Content/textures/power_module_inverter.png</File>
+    <File>/home/cobeaquen/dev/games/Monogame/RailPuzzle/TrainStation/Content/textures/power_module_signalmod.png</File>
+    <File>/home/cobeaquen/dev/games/Monogame/RailPuzzle/TrainStation/Content/textures/spawner_cart.png</File>
+    <File>/home/cobeaquen/dev/games/Monogame/RailPuzzle/TrainStation/Content/textures/start.png</File>
+    <File>/home/cobeaquen/dev/games/Monogame/RailPuzzle/TrainStation/Content/textures/track_boost.png</File>
+    <File>/home/cobeaquen/dev/games/Monogame/RailPuzzle/TrainStation/Content/textures/track_counter.png</File>
+    <File>/home/cobeaquen/dev/games/Monogame/RailPuzzle/TrainStation/Content/textures/track_detector.png</File>
+    <File>/home/cobeaquen/dev/games/Monogame/RailPuzzle/TrainStation/Content/textures/track_push.png</File>
+    <File>/home/cobeaquen/dev/games/Monogame/RailPuzzle/TrainStation/Content/textures/track_straight.png</File>
+    <File>/home/cobeaquen/dev/games/Monogame/RailPuzzle/TrainStation/Content/textures/track_turn.png</File>
+    <File>/home/cobeaquen/dev/games/Monogame/RailPuzzle/TrainStation/Content/textures/track_turn_02.png</File>
+    <File>/home/cobeaquen/dev/games/Monogame/RailPuzzle/TrainStation/Content/textures/ui/ui_itemsmenu.png</File>
+    <File>/home/cobeaquen/dev/games/Monogame/RailPuzzle/TrainStation/Content/textures/ui/ui_itemsmenu_expand.png</File>
+    <File>/home/cobeaquen/dev/games/Monogame/RailPuzzle/TrainStation/Content/textures/ui/ui_itemsmenu_open.png</File>
+    <File>/home/cobeaquen/dev/games/Monogame/RailPuzzle/TrainStation/Content/textures/ui/ui_itemsmenu_tile.png</File>
+    <File>/home/cobeaquen/dev/games/Monogame/RailPuzzle/TrainStation/Content/ui/fonts/default_font.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/dev/TrainStation/TrainStation/Content/effects/button_effect.fx</File>
+    <File>D:/trainworld/TrainStation/TrainStation/Content/effects/portal_effect.fx</File>
+    <File>D:/trainworld/TrainStation/TrainStation/Content/effects/base_effect.fx</File>
+    <File>D:/trainworld/TrainStation/TrainStation/Content/effects/button_effect.fx</File>
+    <File>D:/trainworld/TrainStation/TrainStation/Content/effects/lightmask.png</File>
+    <File>D:/trainworld/TrainStation/TrainStation/Content/textures/cart.png</File>
+    <File>D:/trainworld/TrainStation/TrainStation/Content/textures/concept.png</File>
+    <File>D:/trainworld/TrainStation/TrainStation/Content/textures/flag_finish.png</File>
+    <File>D:/trainworld/TrainStation/TrainStation/Content/textures/obstacle_01.png</File>
+    <File>D:/trainworld/TrainStation/TrainStation/Content/textures/start.png</File>
+    <File>D:/trainworld/TrainStation/TrainStation/Content/textures/track_boost.png</File>
+    <File>D:/trainworld/TrainStation/TrainStation/Content/textures/track_straight.png</File>
+    <File>D:/trainworld/TrainStation/TrainStation/Content/textures/track_turn.png</File>
+    <File>D:/trainworld/TrainStation/TrainStation/Content/textures/track_turn_02.png</File>
+    <File>D:/trainworld/TrainStation/TrainStation/Content/ui/fonts/default_font.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
